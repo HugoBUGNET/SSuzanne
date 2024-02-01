@@ -1,2 +1,2 @@
 # SSuzanne
-* [suzaaaaaaaaanne] (./base_glb.html)
+* [suzaaaaaaaaanne](./base_glb.html)
